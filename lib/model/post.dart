@@ -10,12 +10,12 @@ final List<Post> posts = [
   Post(
       title: '心灵捕手',
       author: '大本',
-      imageUrl: 'https://laokamo.oss-cn-shenzhen.aliyuncs.com/p1094496350.jpg'
+      imageUrl: 'http://image.aiprogram.top/SSM.jpg'
   ),
   Post(
       title: '心灵捕手',
       author: '大本',
-      imageUrl: 'https://laokamo.oss-cn-shenzhen.aliyuncs.com/p1094496350.jpg'
+      imageUrl: 'http://image.aiprogram.top/%E5%8D%95%E8%BD%A6.jpg'
   ),
 //  Post(
 //      title: '指点',
