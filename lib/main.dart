@@ -17,7 +17,6 @@ class App extends StatelessWidget {
   }
 }
 
-
 class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
